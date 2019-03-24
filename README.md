@@ -1,4 +1,4 @@
 heroku-node
 ===========
 
-Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
+Code for the tutorial by @m7mdharon: Deploying Node Apps to Heroku
